@@ -2,7 +2,7 @@
 
 A desktop application that allows you to transform and generate images using Google's Gemini generative AI model. This tool leverages the `gemini-2.0-flash-exp-image-generation` model to manipulate images based on text prompts.
 
-![capture](/public/main.png)
+![capture](/screenshot/main.png)
 
 ## Features
 
