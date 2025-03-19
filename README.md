@@ -2,6 +2,8 @@
 
 A desktop application that allows you to transform and generate images using Google's Gemini generative AI model. This tool leverages the `gemini-2.0-flash-exp-image-generation` model to manipulate images based on text prompts.
 
+![capture](/public/main.png)
+
 ## Features
 
 - **Image Transformation**: Edit and transform existing images using text prompts
@@ -47,10 +49,6 @@ A desktop application that allows you to transform and generate images using Goo
 4. Choose a preset transformation or write a custom prompt
 5. Click "Generate Image"
 6. Save the generated image if desired
-
-## Screenshots
-
-(Screenshots will be added soon)
 
 ## License
 
@@ -107,10 +105,6 @@ Un'applicazione desktop che consente di trasformare e generare immagini utilizza
 4. Scegli una trasformazione preimpostata o scrivi un prompt personalizzato
 5. Clicca su "Genera Immagine"
 6. Salva l'immagine generata se desiderato
-
-## Screenshot
-
-(Gli screenshot saranno aggiunti presto)
 
 ## Licenza
 
