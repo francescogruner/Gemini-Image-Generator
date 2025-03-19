@@ -25,7 +25,7 @@ A desktop application that allows you to transform and generate images using Goo
 
 1. Clone this repository:
    ```
-   git clone https://github.com/YourUsername/gemini-image-generator.git
+   git clone https://github.com/francescogruner/Gemini-Image-Generator
    cd gemini-image-generator
    ```
 
